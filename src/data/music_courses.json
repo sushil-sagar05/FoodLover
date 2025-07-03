@@ -1,54 +1,64 @@
 {
- "courses":[
-    {    "id":1,
-        "title": "Introduction to Music Theory",
-        "slug": "introduction-to-music-theory",
-        "description": "A beginner-friendly course to understand the fundamental principles of music theory. Learn about scales, chords, rhythm, and harmony.",
-        "price": 99.99,
-        "instructor": "Dr. John Smith",
-        "isFeatured": true
-      },
-      {   "id":2,
-        "title": "Advanced Guitar Techniques",
-        "slug": "advanced-guitar-techniques",
-        "description": "Dive deep into advanced guitar playing techniques including fingerpicking, sweep picking, and improvisation for experienced guitarists.",
-        "price": 149.99,
-        "instructor": "Alice Cooper",
-        "isFeatured": false
-      },
-      { "id":3,
-        "title": "Electronic Music Production",
-        "slug": "electronic-music-production",
-        "description": "Learn how to create electronic music using DAWs (Digital Audio Workstations) like Ableton and Logic Pro. Master the art of sound design and arrangement.",
-        "price": 199.99,
-        "instructor": "DJ Mark Styles",
-        "isFeatured": true
-      },
-      { "id":4,
-        "title": "Music Composition for Film & TV",
-        "slug": "music-composition-for-film-tv",
-        "description": "This course teaches the essentials of composing music for visual media, including scoring for film, television, and video games.",
-        "price": 249.99,
-        "instructor": "Sarah Jones",
-        "isFeatured": true
-      },
-      { "id":5,
-        "title": "Classical Piano Mastery",
-        "slug": "classical-piano-mastery",
-        "description": "Perfect your classical piano skills with detailed lessons on technique, performance, and music interpretation.",
-        "price": 129.99,
-        "instructor": "Yuki Takahashi",
-        "isFeatured": false
-      },
-      { "id":6,
-        "title": "Vocal Performance & Technique",
-        "slug": "vocal-performance-technique",
-        "description": "Master the art of singing with a focus on vocal techniques, breathing exercises, and stage presence for aspiring performers.",
-        "price": 119.99,
-        "instructor": "Michael Ross",
-        "isFeatured": false
-      }
- ]
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Music Theory",
+      "slug": "introduction-to-music-theory",
+      "description": "A beginner-friendly course to understand the fundamental principles of music theory. Learn about scales, chords, rhythm, and harmony.",
+      "price": 99.99,
+      "instructor": "Dr. John Smith",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1603415526960-f8f76c5f2c5d"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Dive deep into advanced guitar playing techniques including fingerpicking, sweep picking, and improvisation for experienced guitarists.",
+      "price": 149.99,
+      "instructor": "Alice Cooper",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
+    },
+    {
+      "id": 3,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn how to create electronic music using DAWs (Digital Audio Workstations) like Ableton and Logic Pro. Master the art of sound design and arrangement.",
+      "price": 199.99,
+      "instructor": "DJ Mark Styles",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1581090700227-1e8a8c282d34"
+    },
+    {
+      "id": 4,
+      "title": "Music Composition for Film & TV",
+      "slug": "music-composition-for-film-tv",
+      "description": "This course teaches the essentials of composing music for visual media, including scoring for film, television, and video games.",
+      "price": 249.99,
+      "instructor": "Sarah Jones",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae"
+    },
+    {
+      "id": 5,
+      "title": "Classical Piano Mastery",
+      "slug": "classical-piano-mastery",
+      "description": "Perfect your classical piano skills with detailed lessons on technique, performance, and music interpretation.",
+      "price": 129.99,
+      "instructor": "Yuki Takahashi",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1527030280862-64139fba04ca"
+    },
+    {
+      "id": 6,
+      "title": "Vocal Performance & Technique",
+      "slug": "vocal-performance-technique",
+      "description": "Master the art of singing with a focus on vocal techniques, breathing exercises, and stage presence for aspiring performers.",
+      "price": 119.99,
+      "instructor": "Michael Ross",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    }
+  ]
 }
-  
-  
